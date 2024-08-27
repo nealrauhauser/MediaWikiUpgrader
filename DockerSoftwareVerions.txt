@@ -1,3 +1,8 @@
+
+MediaWiki up to 1.38 uses MySQL 5.6.51, then starting with 1.39
+you will need the latest MySQL 5.7. This is what was in my images
+when I started working on this tooling.
+
 REPOSITORY         TAG       IMAGE ID       CREATED         SIZE
 mediawiki          1.27      9a7e298d7841   4 years ago     701MB
 mediawiki          1.28      9a508c4c3b05   6 years ago     659MB
